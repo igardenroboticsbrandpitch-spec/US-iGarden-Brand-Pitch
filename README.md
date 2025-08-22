@@ -817,5 +817,3 @@
                 }
             });
         </script>
-</body>
-</html>
